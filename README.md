@@ -21,5 +21,5 @@ Celem projektu jest zaoferowanie alternatywy dla papierowej książeczki GOT PTT
 
 W ramach projektu zaprojektowno aplikację korzystającą z bazy danych. Zaprojektowaną aplikację zaimplementowano jako natywną aplikację mobilną na system Android z lokalną bazą danych SQLite.
 -
-Branch main zawiera dokumentację projektu. Implementacja projektu wraz z testami znajdują się w branchu mobile_app.
+Branch main zawiera dokumentację projektu. Implementacja aplikacji mobilnej wraz z testami znajdują się w branchu mobile_app.
 -
